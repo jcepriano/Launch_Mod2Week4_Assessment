@@ -8,7 +8,7 @@
 ## Questions (8 points possible)
 1. In your own words, how would you define an ORM?
 
-A framework that allows a programmer to connect an application and a database
+ORM is a framework that allows a programmer to connect an application and a database
 
 2. Given the two classes for bike and owner, update the classes to include a one-to-many relationship where each bike has one owner, and each owner can have many bikes.
 
@@ -87,7 +87,7 @@ A framework that allows a programmer to connect an application and a database
 
 ## Exercise (5 points possible)
 
-Fork the Replit below, and complete the 5 LINQ exercises.  Add a link to your forked repl here: <YOUR LINK HERE>
+Fork the Replit below, and complete the 5 LINQ exercises.  Add a link to your forked repl here: https://replit.com/@JamesCepriano/Mod2Week4Assessment#main.cs
 
 [https://replit.com/@launch-team/Mod2Week4Assessment](https://replit.com/@launch-team/Mod2Week4Assessment?v=1)
 
